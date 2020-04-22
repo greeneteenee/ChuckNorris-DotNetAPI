@@ -28,13 +28,48 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.btnJoke = new System.Windows.Forms.Button();
+            this.txtJoke = new System.Windows.Forms.TextBox();
+            this.SuspendLayout();
+            // 
+            // btnJoke
+            // 
+            this.btnJoke.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnJoke.Location = new System.Drawing.Point(286, 161);
+            this.btnJoke.Name = "btnJoke";
+            this.btnJoke.Size = new System.Drawing.Size(253, 146);
+            this.btnJoke.TabIndex = 0;
+            this.btnJoke.Text = "Get random joke";
+            this.btnJoke.UseVisualStyleBackColor = true;
+            this.btnJoke.Click += new System.EventHandler(this.btnJoke_Click);
+            // 
+            // txtJoke
+            // 
+            this.txtJoke.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtJoke.Location = new System.Drawing.Point(286, 12);
+            this.txtJoke.Multiline = true;
+            this.txtJoke.Name = "txtJoke";
+            this.txtJoke.Size = new System.Drawing.Size(253, 143);
+            this.txtJoke.TabIndex = 1;
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.txtJoke);
+            this.Controls.Add(this.btnJoke);
+            this.Name = "Form1";
             this.Text = "Form1";
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
         }
 
         #endregion
+
+        private System.Windows.Forms.Button btnJoke;
+        private System.Windows.Forms.TextBox txtJoke;
     }
 }
 
