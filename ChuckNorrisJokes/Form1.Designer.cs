@@ -30,6 +30,7 @@
         {
             this.btnJoke = new System.Windows.Forms.Button();
             this.txtJoke = new System.Windows.Forms.TextBox();
+            this.cboBoxCategory = new System.Windows.Forms.ComboBox();
             this.SuspendLayout();
             // 
             // btnJoke
@@ -52,15 +53,26 @@
             this.txtJoke.Size = new System.Drawing.Size(253, 143);
             this.txtJoke.TabIndex = 1;
             // 
+            // cboBoxCategory
+            // 
+            this.cboBoxCategory.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cboBoxCategory.FormattingEnabled = true;
+            this.cboBoxCategory.Location = new System.Drawing.Point(286, 323);
+            this.cboBoxCategory.Name = "cboBoxCategory";
+            this.cboBoxCategory.Size = new System.Drawing.Size(253, 21);
+            this.cboBoxCategory.TabIndex = 2;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.cboBoxCategory);
             this.Controls.Add(this.txtJoke);
             this.Controls.Add(this.btnJoke);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -70,6 +82,7 @@
 
         private System.Windows.Forms.Button btnJoke;
         private System.Windows.Forms.TextBox txtJoke;
+        private System.Windows.Forms.ComboBox cboBoxCategory;
     }
 }
 

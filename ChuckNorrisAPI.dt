@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-16"?>
-<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT41M0.8797457S" SolutionTotalViewTime="PT32M5.8629458S" SolutionTotalDebugTime="PT4M53.3574305S">
+<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT1H1M57.8430808S" SolutionTotalViewTime="PT55M52.3484707S" SolutionTotalDebugTime="PT9M11.5487382S">
   <FileVersion>
     <Major>1</Major>
     <Minor>0</Minor>
   </FileVersion>
-  <SolutionFolder>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI</SolutionFolder>
+  <SolutionFolder>C:\Users\Unknown User\source\repos\ChuckNorris-DotNetAPI</SolutionFolder>
   <SolutionCreattionDate>2020-04-20T17:11:51.7914232-07:00</SolutionCreattionDate>
   <ProjectsCreatedDateList>
     <ProjectCreated>
@@ -19,62 +19,35 @@
       <ProjectName>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisJokes\ChuckNorrisJokes.csproj</ProjectName>
       <CreatedDate>2020-04-20T19:02:22.1600831-07:00</CreatedDate>
     </ProjectCreated>
+    <ProjectCreated>
+      <ProjectName>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisJokes\ChuckNorrisJokes.csproj</ProjectName>
+      <CreatedDate>2020-04-22T15:50:04.0642897-07:00</CreatedDate>
+    </ProjectCreated>
   </ProjectsCreatedDateList>
   <SessionTimeList />
   <LastSessionTimeList>
-    <DevTrackerDataItem ViewActiveTime="PT10M53.2414034S" EditActiveTime="PT2.5658622S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>C:\Users\Unknown User\source\repos\ChuckNorris-DotNetAPI\ChuckNorrisAPI\ChuckNorrisClientClasses.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisAPI\ChuckNorrisAPI.csproj</ProjectName>
-      <CreatedDate>2020-04-20T21:23:14.7479279-07:00</CreatedDate>
-      <ViewedBy>Unknown User</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT4M53.3574305S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT12.0848281S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>Debug Mode</Item>
-      <ItemType>DebugModeItem</ItemType>
-      <ProjectName />
-      <CreatedDate>2020-04-20T21:53:24.8714199-07:00</CreatedDate>
-      <ViewedBy>Unknown User</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT10M10.4350456S" EditActiveTime="PT40M58.3148846S">
-      <ModifiedDate>2020-04-20T22:38:17.6914756-07:00</ModifiedDate>
-      <ModifiedBy>Unknown User</ModifiedBy>
-      <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
       <Item>C:\Users\Unknown User\source\repos\ChuckNorris-DotNetAPI\ChuckNorrisJokes\Form1.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisJokes\ChuckNorrisJokes.csproj</ProjectName>
-      <CreatedDate>2020-04-20T21:19:35.9750388-07:00</CreatedDate>
-      <ViewedBy>Unknown User</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT5.3873192S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>C:\Users\Unknown User\source\repos\ChuckNorris-DotNetAPI\ChuckNorrisAPI\Joke.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisAPI\ChuckNorrisAPI.csproj</ProjectName>
-      <CreatedDate>2020-04-20T22:20:59.3563275-07:00</CreatedDate>
-      <ViewedBy>Unknown User</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT3.4360948S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>C:\Users\Unknown User\source\repos\ChuckNorris-DotNetAPI\ChuckNorrisJokes\Program.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisJokes\ChuckNorrisJokes.csproj</ProjectName>
-      <CreatedDate>2020-04-20T21:54:30.1345229-07:00</CreatedDate>
+      <ProjectName>C:\Users\Unknown User\source\repos\ChuckNorris-DotNetAPI\ChuckNorrisJokes\ChuckNorrisJokes.csproj</ProjectName>
+      <CreatedDate>2020-04-22T15:50:23.0583875-07:00</CreatedDate>
       <ViewedBy>Unknown User</ViewedBy>
     </DevTrackerDataItem>
   </LastSessionTimeList>
   <TotalTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT41.669655S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisAPI\APIResponseClasses.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisAPI\ChuckNorrisAPI.csproj</ProjectName>
+      <CreatedDate>2020-04-22T14:38:54.4131065-07:00</CreatedDate>
+      <ViewedBy>Unknown User</ViewedBy>
+    </DevTrackerDataItem>
     <DevTrackerDataItem ViewActiveTime="PT6.1040738S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
@@ -85,52 +58,83 @@
       <CreatedDate>2020-04-20T18:42:52.9597023-07:00</CreatedDate>
       <ViewedBy>Unknown User</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT10M53.2414034S" EditActiveTime="PT2.5658622S">
+    <DevTrackerDataItem ViewActiveTime="PT12M37.165562S" EditActiveTime="PT2.5658622S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>C:\Users\Unknown User\source\repos\ChuckNorris-DotNetAPI\ChuckNorrisAPI\ChuckNorrisClientClasses.cs</Item>
+      <ViewedCount>2</ViewedCount>
+      <Item>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisAPI\ChuckNorrisClientClasses.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisAPI\ChuckNorrisAPI.csproj</ProjectName>
       <CreatedDate>2020-04-20T21:23:14.7479279-07:00</CreatedDate>
       <ViewedBy>Unknown User</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT4M53.3574305S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT5M24.2373143S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Unknown User\AppData\Local\Temp\ChuckNorrisJokes - Copy.csproj</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2020-04-22T15:36:38.4565268-07:00</CreatedDate>
+      <ViewedBy>Unknown User</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9M11.5487382S" EditActiveTime="PT35.1692956S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>Debug Mode</Item>
       <ItemType>DebugModeItem</ItemType>
       <ProjectName />
       <CreatedDate>2020-04-20T21:53:24.8714199-07:00</CreatedDate>
       <ViewedBy>Unknown User</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT20M57.6940546S" EditActiveTime="PT40M58.3148846S">
-      <ModifiedDate>2020-04-20T22:38:17.6914756-07:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT35M53.2059202S" EditActiveTime="PT1H1M55.0691641S">
+      <ModifiedDate>2020-04-22T15:38:44.7210997-07:00</ModifiedDate>
       <ModifiedBy>Unknown User</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>4</ViewedCount>
-      <Item>C:\Users\Unknown User\source\repos\ChuckNorris-DotNetAPI\ChuckNorrisJokes\Form1.cs</Item>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>6</ViewedCount>
+      <Item>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisJokes\Form1.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisJokes\ChuckNorrisJokes.csproj</ProjectName>
       <CreatedDate>2020-04-20T18:25:41.2339267-07:00</CreatedDate>
       <ViewedBy>Unknown User</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT5.3873192S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT9.5404551S" EditActiveTime="PT0.2080545S">
+      <ModifiedDate>2020-04-22T15:14:11.6382417-07:00</ModifiedDate>
+      <ModifiedBy>Unknown User</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisJokes\Form1.Designer.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisJokes\ChuckNorrisJokes.csproj</ProjectName>
+      <CreatedDate>2020-04-22T15:01:01.9635338-07:00</CreatedDate>
+      <ViewedBy>Unknown User</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT48.3444904S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>C:\Users\Unknown User\source\repos\ChuckNorris-DotNetAPI\ChuckNorrisAPI\Joke.cs</Item>
+      <ViewedCount>2</ViewedCount>
+      <Item>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisAPI\Joke.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisAPI\ChuckNorrisAPI.csproj</ProjectName>
       <CreatedDate>2020-04-20T22:20:59.3563275-07:00</CreatedDate>
       <ViewedBy>Unknown User</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT3.4360948S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT7.4965792S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>C:\Users\Unknown User\source\repos\ChuckNorris-DotNetAPI\ChuckNorrisJokes\Program.cs</Item>
+      <Item>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisAPI\NoSuchQuoteException.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisAPI\ChuckNorrisAPI.csproj</ProjectName>
+      <CreatedDate>2020-04-22T14:40:38.7221782-07:00</CreatedDate>
+      <ViewedBy>Unknown User</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4.5844207S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisJokes\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisJokes\ChuckNorrisJokes.csproj</ProjectName>
       <CreatedDate>2020-04-20T21:54:30.1345229-07:00</CreatedDate>
@@ -138,11 +142,113 @@
     </DevTrackerDataItem>
   </TotalTimeList>
   <HistoryTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT12.0848281S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisJokes\Form1.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisJokes\ChuckNorrisJokes.csproj</ProjectName>
+      <CreatedDate>2020-04-22T15:50:23.0583875-07:00</CreatedDate>
+      <ViewedBy>Unknown User</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT5M24.2373143S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Unknown User\AppData\Local\Temp\ChuckNorrisJokes - Copy.csproj</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2020-04-22T15:36:38.4565268-07:00</CreatedDate>
+      <ViewedBy>Unknown User</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT9.5404551S" EditActiveTime="PT0.2080545S">
+      <ModifiedDate>2020-04-22T15:14:11.6382417-07:00</ModifiedDate>
+      <ModifiedBy>Unknown User</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisJokes\Form1.Designer.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisJokes\ChuckNorrisJokes.csproj</ProjectName>
+      <CreatedDate>2020-04-22T15:01:01.9635338-07:00</CreatedDate>
+      <ViewedBy>Unknown User</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT42.9571712S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisAPI\Joke.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisAPI\ChuckNorrisAPI.csproj</ProjectName>
+      <CreatedDate>2020-04-22T14:40:43.9125699-07:00</CreatedDate>
+      <ViewedBy>Unknown User</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT7.4965792S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisAPI\NoSuchQuoteException.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisAPI\ChuckNorrisAPI.csproj</ProjectName>
+      <CreatedDate>2020-04-22T14:40:38.7221782-07:00</CreatedDate>
+      <ViewedBy>Unknown User</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1.1483259S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisJokes\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisJokes\ChuckNorrisJokes.csproj</ProjectName>
+      <CreatedDate>2020-04-22T14:40:18.2641178-07:00</CreatedDate>
+      <ViewedBy>Unknown User</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT41.669655S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisAPI\APIResponseClasses.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisAPI\ChuckNorrisAPI.csproj</ProjectName>
+      <CreatedDate>2020-04-22T14:38:54.4131065-07:00</CreatedDate>
+      <ViewedBy>Unknown User</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT1M43.9241586S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisAPI\ChuckNorrisClientClasses.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisAPI\ChuckNorrisAPI.csproj</ProjectName>
+      <CreatedDate>2020-04-22T13:56:52.9870883-07:00</CreatedDate>
+      <ViewedBy>Unknown User</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT4M18.1913077S" EditActiveTime="PT35.1692956S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2020-04-22T13:54:25.7378684-07:00</CreatedDate>
+      <ViewedBy>Unknown User</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT14M43.4270375S" EditActiveTime="PT20M56.7542795S">
+      <ModifiedDate>2020-04-22T15:38:44.7210997-07:00</ModifiedDate>
+      <ModifiedBy>Unknown User</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisJokes\Form1.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisJokes\ChuckNorrisJokes.csproj</ProjectName>
+      <CreatedDate>2020-04-22T13:52:08.0281837-07:00</CreatedDate>
+      <ViewedBy>Unknown User</ViewedBy>
+    </DevTrackerDataItem>
     <DevTrackerDataItem ViewActiveTime="PT5.3873192S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>C:\Users\Unknown User\source\repos\ChuckNorris-DotNetAPI\ChuckNorrisAPI\Joke.cs</Item>
+      <Item>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisAPI\Joke.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisAPI\ChuckNorrisAPI.csproj</ProjectName>
       <CreatedDate>2020-04-20T22:20:59.3563275-07:00</CreatedDate>
@@ -152,7 +258,7 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>C:\Users\Unknown User\source\repos\ChuckNorris-DotNetAPI\ChuckNorrisJokes\Program.cs</Item>
+      <Item>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisJokes\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisJokes\ChuckNorrisJokes.csproj</ProjectName>
       <CreatedDate>2020-04-20T21:54:30.1345229-07:00</CreatedDate>
@@ -172,7 +278,7 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>C:\Users\Unknown User\source\repos\ChuckNorris-DotNetAPI\ChuckNorrisAPI\ChuckNorrisClientClasses.cs</Item>
+      <Item>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisAPI\ChuckNorrisClientClasses.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisAPI\ChuckNorrisAPI.csproj</ProjectName>
       <CreatedDate>2020-04-20T21:23:14.7479279-07:00</CreatedDate>
@@ -183,7 +289,7 @@
       <ModifiedBy>Unknown User</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>C:\Users\Unknown User\source\repos\ChuckNorris-DotNetAPI\ChuckNorrisJokes\Form1.cs</Item>
+      <Item>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisJokes\Form1.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisJokes\ChuckNorrisJokes.csproj</ProjectName>
       <CreatedDate>2020-04-20T21:19:35.9750388-07:00</CreatedDate>
@@ -203,7 +309,7 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>C:\Users\Unknown User\source\repos\ChuckNorris-DotNetAPI\ChuckNorrisJokes\Form1.cs</Item>
+      <Item>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisJokes\Form1.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisJokes\ChuckNorrisJokes.csproj</ProjectName>
       <CreatedDate>2020-04-20T18:41:56.7039664-07:00</CreatedDate>
@@ -213,7 +319,7 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>C:\Users\Unknown User\source\repos\ChuckNorris-DotNetAPI\ChuckNorrisJokes\Form1.cs</Item>
+      <Item>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisJokes\Form1.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisJokes\ChuckNorrisJokes.csproj</ProjectName>
       <CreatedDate>2020-04-20T18:37:08.8243197-07:00</CreatedDate>
@@ -223,7 +329,7 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>C:\Users\Unknown User\source\repos\ChuckNorris-DotNetAPI\ChuckNorrisJokes\Form1.cs</Item>
+      <Item>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisJokes\Form1.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>C:\Users\Unknown User\Source\Repos\ChuckNorris-DotNetAPI\ChuckNorrisJokes\ChuckNorrisJokes.csproj</ProjectName>
       <CreatedDate>2020-04-20T18:25:41.2339267-07:00</CreatedDate>
